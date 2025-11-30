@@ -2,7 +2,6 @@
 
 🚀 **AI-Powered YouTube Video Analysis Tool** | Extract insights, summaries, and actionable takeaways from any YouTube video using advanced LLM technology. Transform video content into structured markdown reports with smart caching and cross-platform CLI support.
 
-[![PyPI version](https://badge.fury.io/py/youtube-wisdom-extractor.svg)](https://badge.fury.io/py/youtube-wisdom-extractor)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Cross-Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/SenSrijan/youtube-wisdom-extractor)
@@ -22,12 +21,7 @@
 
 ## Installation
 
-### Option 1: Install from PyPI (Recommended)
-```bash
-pip install youtube-wisdom-extractor
-```
-
-### Option 2: Install from Source
+### Install from Source
 ```bash
 git clone https://github.com/SenSrijan/youtube-wisdom-extractor.git
 cd youtube-wisdom-extractor
@@ -119,6 +113,10 @@ print(result)
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
+
+## Credits
+
+This project uses the excellent [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) by [@jdepoix](https://github.com/jdepoix) for YouTube transcript extraction. Special thanks for making YouTube transcript access simple and reliable.
 
 ## License
 
