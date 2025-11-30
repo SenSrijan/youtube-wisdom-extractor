@@ -125,5 +125,5 @@ MIT License - see LICENSE file for details.
 ## Support
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/SenSrijan/youtube-wisdom-extractor/issues)
-- 📧 **Email**: your.email@example.com
+- 📧 **Email**: srijanstacks@gmail.com
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/SenSrijan/youtube-wisdom-extractor/discussions)
